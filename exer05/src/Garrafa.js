@@ -4,7 +4,7 @@ class Garrafa extends React.Component {
 
 
     componentWillUnmount () {
-        alert('O componente chamado Cabecalho está prestes a ser desmontado.');
+        alert("O componente chamado Cabecalho está prestes a ser desmontado.");
     }
 
     render() {
