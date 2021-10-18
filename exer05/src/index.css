@@ -1,0 +1,19 @@
+button{
+  font-weight: bold;
+	padding: 10px;
+	float: left;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-top-color: #3406ff;
+	border-right-color: #3406ff;
+	border-bottom-color: #3406ff;
+	border-left-color: #3406ff;
+	color: #FFFFFF;
+  background: rgb(39, 157, 253);
+	margin-left: 20px;
+  
+  
+}
